@@ -166,7 +166,6 @@ body > .info {
 .info .views {
     font-size: var(--font-small);
     color: var(--grey-dark-color);
-    fixed:left;
 }
 
 /* Action Buttons */
@@ -361,11 +360,8 @@ body > .info {
         margin: var(--padding) 0;
     }
 }
-@media screen and (max-width: 769px){
+@media screen and (max-width: 768px){
     .views{
         display: none;
-    }
-    .actions {
-        flex-direction: row;
     }
 }
