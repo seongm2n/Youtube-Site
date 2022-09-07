@@ -140,10 +140,10 @@ body > .info {
     padding-bottom: 10px;
 }
 
-.info .metadata .titleAndButton .title .clamp{
+.info .metadata .titleAndButton .title.clamp{
     display: -webkit-box;
     -webkit-box-orient: vertical;
-    -webkit-line-clamp: 2;
+    -webkit-line-clamp: 1;
     overflow: hidden;
 }
 
@@ -166,14 +166,14 @@ body > .info {
 .info .views {
     font-size: var(--font-small);
     color: var(--grey-dark-color);
-    
+    fixed:left;
 }
 
 /* Action Buttons */
+
 .info .actions {
     display: flex;
     justify-content: space-around;
-    
 }
 
 .info .viewsAndActions li{
@@ -359,5 +359,13 @@ body > .info {
     .infoAndUpNext{
         flex-direction: row;
         margin: var(--padding) 0;
+    }
+}
+@media screen and (max-width: 769px){
+    .views{
+        display: none;
+    }
+    .actions {
+        flex-direction: row;
     }
 }
