@@ -1,6 +1,7 @@
 # Youtube-Site clone
 
 <h2>💡프로젝트 소개</h2>
+<img width="893" alt="스크린샷 2022-11-21 11 23 57" src="https://user-images.githubusercontent.com/62044613/202948549-5c6762a8-90c5-4720-85ed-f5ca57ef869f.png">
 
 ✍🏻프로젝트 개요 및 동기 
 
@@ -14,6 +15,7 @@
 
 
 📺 Gif 📺</br>
+![youtube_site](https://user-images.githubusercontent.com/62044613/202948613-8b626682-445e-4ae3-a944-bb7fed3128b2.gif)
 
 
 
