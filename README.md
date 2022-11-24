@@ -5,11 +5,11 @@
 
 ✍🏻프로젝트 개요 및 동기 
 
-• Youtube사이트 클론 코딩
+• Youtube 사이트를 보고 비슷하게 따라해보기
 
 • 있는 코드를 그대로 따라하는 것이 아니라 실제 웹 사이트를 보고 만들어내기
 
-• Youtube로 자바스크립트를 공부하다가 마지막에 "클론코딩해보세요~"라는 말에 만들게 됨
+• Youtube로 자바스크립트를 공부하다가 마지막에 만들게 됨
 
 📺 Gif 📺</br>
 ![youtube_site](https://user-images.githubusercontent.com/62044613/202948613-8b626682-445e-4ae3-a944-bb7fed3128b2.gif)
